@@ -7,6 +7,17 @@ bs4
 arxiv
 pymupdf
 wikipedia
-
 langchain-text-splitters
 lxml
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+# chromadb
+streamlit
+langchain_groq
+fastapi
+uvicorn
+langserve
+sse_starlette
+langchain_community
